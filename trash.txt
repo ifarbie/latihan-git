@@ -1,2 +1,8 @@
 ini line pertama
 ini line kedua
+
+1
+2
+3
+4
+5
