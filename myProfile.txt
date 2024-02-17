@@ -1,3 +1,4 @@
 nama: Fariz
 umur: 20
 pekerjaan: Mahasiswa
+domisili: Bekasi
